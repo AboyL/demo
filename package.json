@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AboyL/demo.git",
+  "author": "lijunfeng <junfeng.li@hand-china.com>",
+  "license": "MIT",
+  "scripts": {
+    "build":"node test.js"
+  },
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}
