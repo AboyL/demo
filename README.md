@@ -2,7 +2,10 @@
 ### 安装依赖
 > yarn
 
-### 启动
+
+
+
+## 截图
 > yarn screenshot
 或者
 >  node ./src/screenshot/screenshot.js
