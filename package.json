@@ -6,7 +6,7 @@
   "author": "lijunfeng <junfeng.li@hand-china.com>",
   "license": "MIT",
   "scripts": {
-    "build":"node test.js"
+    "screenshot":"node ./src/screenshot/screenshot.js"
   },
   "dependencies": {
     "puppeteer": "^9.0.0"

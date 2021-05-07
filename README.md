@@ -3,9 +3,9 @@
 > yarn
 
 ### 启动
-> yarn test
+> yarn screenshot
 或者
-> node test.js
+>  node ./src/screenshot/screenshot.js
 
 ### 现象
 生成一张**example.png**文件
