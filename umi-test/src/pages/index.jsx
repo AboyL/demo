@@ -1,5 +1,4 @@
 import styles from './index.less';
-// const img =require('l-lerna-test-base/lib/test.jpg');
 import img from 'l-lerna-test-base/lib/test.jpg';
 
 export default function IndexPage() {
